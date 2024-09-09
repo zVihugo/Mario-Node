@@ -47,7 +47,7 @@ Para executar o projeto, basta ter o [Node.js](https://nodejs.org/) instalado e 
    ```bash
    node nome-do-arquivo.js
 
-###🛠️ Estrutura do Código
+### 🛠️ Estrutura do Código
   - player1 e player2: Objetos que representam os personagens da corrida.
   - rollDice(): Função que retorna o resultado do dado.
   - getRandomBlock(): Função que sorteia o bloco da corrida (Reta, Curva ou Confronto).
